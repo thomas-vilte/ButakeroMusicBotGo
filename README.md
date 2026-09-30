@@ -1,5 +1,8 @@
 # ButakeroMusicBotGo
 
+> [!CAUTION]
+> Este repositorio es la prueba de concepto inicial de Butakero. La versión que corre en producción es privada.
+
 **ButakeroMusicBotGo** es un bot de Discord que hice en Go para que puedas escuchar música en tu servidor de Discord. Este repo tiene el código fuente del bot y las instrucciones para instalarlo y ponerlo a funcionar. Ahora mismo funciona con YouTube, pero en el futuro tengo pensado agregar otras plataformas. :D
 
 ## Arquitectura del Bot
